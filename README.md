@@ -17,5 +17,6 @@ Additionally, we train and test several of our data to try to create efficient m
 - K-Means (with Cluster Analysis and Silhouette Diagrams)
 - Agglomerative Clustering (/w several linkage)
 - SVD
+- Value Propagation
 - TF-IDF
 - CBOW, Skipgram CBOW and Doc2Vec Embeddings (bonus use of Google Embeddings)
